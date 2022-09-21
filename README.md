@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=arguswaikhom&color=blue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arguswaikhom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
