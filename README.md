@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arguswaikhom/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/arguswaikhom"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://medium.com/@arguswaikhom"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.instagram.com/arguswaikhom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <img src="https://komarev.com/ghpvc/?username=arguswaikhom&color=blue&style=flat-square" alt="Profile views">
 </p>
@@ -21,13 +20,9 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
 </p>
 
-### GitHub stats
+### Languages
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arguswaikhom/arguswaikhom/main/profile/stats-dark.svg">
-    <img height="165" src="https://raw.githubusercontent.com/arguswaikhom/arguswaikhom/main/profile/stats-light.svg" alt="GitHub stats">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arguswaikhom/arguswaikhom/main/profile/top-langs-dark.svg">
     <img height="165" src="https://raw.githubusercontent.com/arguswaikhom/arguswaikhom/main/profile/top-langs-light.svg" alt="Top languages">
